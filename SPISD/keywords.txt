@@ -1,0 +1,8 @@
+# Class
+SPISD	KEYWORD1
+SpiSDClass	KEYWORD1
+SpiFile		KEYWORD1
+
+# Function
+mkdir	KEYWORD2
+open	KEYWORD2
