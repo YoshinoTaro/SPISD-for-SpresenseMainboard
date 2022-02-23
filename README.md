@@ -1,9 +1,9 @@
-# SPISD library for Sony SPRESENSE
+# SPISD library for Sony SPRESENSE mainboard
 
-This SD library for SPRESENSE SD card using SPI interrace. The examples are using SPI5 that is on SPRESENSE Main Board.
+This SD library is made for SPI interface for Spresense. The examples are using SPI5 that is on SPRESENSE mainboard.
 
 ## Hardware
-SPISD library is designed for a self-made Spresesen SD card Add-on board. The outlook of the board is below.
+SPISD library is designed for a self-made SD card Add-on board for SPRESENSE mainboard. The outlook of the board is below.
 
 ![SD card add-on board](https://makers-with-myson.c.blog.ss-blog.jp/_images/blog/_786/makers-with-myson/DSC01995.JPG)
 
