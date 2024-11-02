@@ -16,21 +16,21 @@ SPISD library is designed for a self-made SD card Add-on board for SPRESENSE mai
 ### Preparation of the parts
 #### (1) microSD card breakout board
 
-<img src = "https://akizukidenshi.com/img/goods/L/K-05488.png" width="300"/>
+<img src = "https://akizukidenshi.com/img/goods/L/105488.jpg" width="300"/>
 
-You can get it at [Akizuki-denshi](https://akizukidenshi.com/catalog/g/gK-05488/)
+You can get it at [Akizuki-denshi](https://akizukidenshi.com/catalog/g/g105488/)
 
 #### (2) Level shifter breakout board
 
-<img src = "https://akizukidenshi.com/img/goods/L/M-04522.jpg" width = "300"/>
+<img src = "https://akizukidenshi.com/img/goods/L/104522.jpg" width = "300"/>
 
-You can get it at [Akizuki-denshi](https://akizukidenshi.com/catalog/g/gM-04522/)
+You can get it at [Akizuki-denshi](https://akizukidenshi.com/catalog/g/g104522/)
 
 #### (3) Universal board
 
-<img src = "https://akizukidenshi.com/img/goods/2/P-09608.JPG" width="300"/>
+<img src = "https://akizukidenshi.com/img/goods/L/109608.jpg" width="300"/>
 
-This universal board can be cutted by Scissors. You can get it at [Akizuki-denshi](https://akizukidenshi.com/catalog/g/gP-09608/)
+This universal board can be cutted by Scissors. You can get it at [Akizuki-denshi](https://akizukidenshi.com/catalog/g/g109608/)
 
 #### (4) Pin headers
 
